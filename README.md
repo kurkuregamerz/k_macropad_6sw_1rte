@@ -6,7 +6,8 @@ This is a project for hackclub stardance.
 - EC11 Rotary Encoder for volume up and down
 - Has 6 Cherry MX Mechanical keys
 - Snap_fit_case
-
+# Firmware
+- QMK
 # Gallery
 
 - Assembled Macropad
