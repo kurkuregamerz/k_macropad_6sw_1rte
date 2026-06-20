@@ -14,13 +14,13 @@ This is a project for hackclub stardance.
 <img width="1920" height="1023" alt="Screenshot 2026-06-20 125731" src="https://github.com/user-attachments/assets/8f6f968a-220c-4e10-8e51-a96860d016de" />
 
 - Top Case
-![Uploading Screenshot 2026-06-20 125825.png…]()
+
 <img width="1920" height="1023" alt="Screenshot 2026-06-20 125807" src="https://github.com/user-attachments/assets/7ef92223-f4dc-488a-ad2c-064105ffc7ef" />
 
 - Bottom Case
-![Uploading Screenshot 2026-06-20 125841.png…]()
-![Uploading Screenshot 2026-06-20 125833.png…]()
+<img width="1920" height="1023" alt="Screenshot 2026-06-20 125833" src="https://github.com/user-attachments/assets/ebc1cc3c-8622-48e8-a551-95def05adfa3" />
 
 - PCB
-![Uploading Screenshot 2026-06-20 110926.png…]()
-![Uploading Screenshot 2026-06-20 110939.png…]()
+<img width="1920" height="1022" alt="Screenshot 2026-06-20 110939" src="https://github.com/user-attachments/assets/c5dac288-7849-4ef2-b4ff-7a2a58f4df61" />
+
+
